@@ -1,4 +1,4 @@
-# SOLID Principles and Clean Code in JavaScript
+# SOLID Principles, Clean Code and OOP in JavaScript
 
 This repository contains examples of SOLID principles, Clean Code practices, and Object-Oriented Programming (OOP) concepts implemented in JavaScript.
 
